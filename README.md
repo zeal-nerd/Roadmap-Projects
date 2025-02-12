@@ -9,3 +9,6 @@ source code and may contain documentation and other relevant files.
 - 📂 **Structured Directories** – Each project/task is stored in a separate folder.  
 - ✅ **Completed Implementations** – Solutions based on roadmap.sh project suggestions.  
 - 📖 **Documentation & Notes** – Insights, explanations, and learnings from each project.  
+
+## 🥳Finished Projects:
+- **[Single-Page CV](https://roadmap.sh/projects/single-page-cv)**
