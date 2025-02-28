@@ -12,6 +12,7 @@ source code and may contain documentation and other relevant files.
 
 ## 🥳Finished Projects:
 - **[Single-Page CV](https://roadmap.sh/projects/single-page-cv)**
+- **[Basic HTML Website](https://github.com/zeal-nerd/Roadmap-Projects/tree/main/Basic%20HTML%20Website)**
 
 <!--
 Sharable links:
